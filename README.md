@@ -19,4 +19,4 @@ Please fork this repo.
 
 ## Copyright
 
-Copyright 2021.
+Copyright 2021. All rights reserved.
